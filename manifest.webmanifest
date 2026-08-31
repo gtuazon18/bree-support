@@ -1,0 +1,10 @@
+{
+  "name": "Bree",
+  "short_name": "Bree",
+  "description": "A private, offline breathing companion.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FFD122",
+  "icons": [{ "src": "assets/bree-icon.png", "sizes": "1024x1024", "type": "image/png" }]
+}
